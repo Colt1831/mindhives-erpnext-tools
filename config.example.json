@@ -1,0 +1,16 @@
+{
+  "erpnext_settings": {
+    "site_url": "https://your-erpnext-instance.com",
+    "api_key": "your_api_key_here",
+    "api_secret": "your_api_secret_here"
+  },
+  "integrations": {
+    "twilio_enabled": true,
+    "nextiva_enabled": true,
+    "ai_processing": true
+  },
+  "multi_company": {
+    "companies": ["Company A", "Company B"],
+    "sync_frequency": "daily"
+  }
+}
